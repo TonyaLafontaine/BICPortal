@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IMLoyal Reports", "IMLoyal Reports.rptproj", "{69C9DF76-CB98-4E6E-951F-FBA43A02F800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Debug|Default.ActiveCfg = Debug
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Debug|Default.Build.0 = DebugLocal
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Debug|Default.Deploy.0 = DebugLocal
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.DebugLocal|Default.Build.0 = DebugLocal
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Release|Default.ActiveCfg = Release
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Release|Default.Build.0 = Release
+		{69C9DF76-CB98-4E6E-951F-FBA43A02F800}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

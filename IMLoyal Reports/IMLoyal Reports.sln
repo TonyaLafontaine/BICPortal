@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IMLoyal Reports", "IMLoyal Reports\IMLoyal Reports.rptproj", "{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Debug|Default.ActiveCfg = Debug
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Debug|Default.Build.0 = DebugLocal
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Debug|Default.Deploy.0 = DebugLocal
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.DebugLocal|Default.Build.0 = DebugLocal
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Release|Default.ActiveCfg = Release
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Release|Default.Build.0 = Release
+		{7E425A4C-2B39-4C03-9EBC-C65A1BD922CE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

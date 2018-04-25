@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="IMLoyal">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=uschwsql1023c01;Initial Catalog=IMLoyal</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d5332775-1e3c-4c1f-b3f0-2d3b57b29f35</DataSourceID>
+</RptDataSource>
